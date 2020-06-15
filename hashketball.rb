@@ -3,17 +3,11 @@ require 'spec_helper'
 require 'pry'
 
 def game_hash
+  
+end
 
 
 
-
-
-
-
-
-
-There is one method in this lab to implement: `game_hash`. This method contains and
-returns a hash nested in the following manner:
 
 * The top level of the hash has two keys: `:home`, for the home team, and
   `:away`, for the away team.
