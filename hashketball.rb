@@ -73,8 +73,7 @@ def game_hash
           :assists => 1, 
           :steals => 2, 
           :blocks => 7, 
-          :slam_dunks => 1 
-        }, 
+          :slam_dunks => 2 }, 
         
         { :player_name => "Reggie Evans"
           :number => 
@@ -84,8 +83,7 @@ def game_hash
           :assists =>
           :steals =>
           :blocks =>
-          :slam_dunks => 
-        }, 
+          :slam_dunks => }, 
         
         { :player_name =>
           :number =>
@@ -95,8 +93,7 @@ def game_hash
           :assists =>
           :steals =>
           :blocks =>
-          :slam_dunks => 
-        },
+          :slam_dunks => },
         
         { :player_name =>
           :number =>
@@ -106,8 +103,7 @@ def game_hash
           :assists =>
           :steals =>
           :blocks =>
-          :slam_dunks => 
-        },
+          :slam_dunks => },
         
         { :player_name =>
           :number =>
@@ -117,8 +113,7 @@ def game_hash
           :assists =>
           :steals =>
           :blocks =>
-          :slam_dunks => 
-        }
+          :slam_dunks => }
           ]}
   }
 end
