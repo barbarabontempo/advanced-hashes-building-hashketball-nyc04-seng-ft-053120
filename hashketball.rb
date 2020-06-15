@@ -96,10 +96,10 @@ def game_hash
           :slam_dunks => 5 },
         
         { :player_name => "Ben Gordon",
-          :number => 
-          :shoe => 
-          :points =>
-          :rebounds =>
+          :number => 8,
+          :shoe => 15,
+          :points => 33,
+          :rebounds => 
           :assists =>
           :steals =>
           :blocks =>
