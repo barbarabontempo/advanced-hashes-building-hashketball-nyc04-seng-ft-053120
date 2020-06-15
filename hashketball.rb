@@ -11,22 +11,33 @@ def game_hash
         :player_name =>
         :number =>
         :shoe => 
+        :points =>
+        :rebounds =>
+        :assists =>
+        :steals =>
+        :blocks =>
+        :slam_dunks => 
       }]
     },
     :away => {
-      
+       :team_name => ""
+      :colors => [""]
+      :players => [{
+        :player_name =>
+        :number =>
+        :shoe => 
+        :points =>
+        :rebounds =>
+        :assists =>
+        :steals =>
+        :blocks =>
+        :slam_dunks => 
+      }]
     }
   }
 end
 
-  *
-  * `:points`
-  * `:rebounds`
-  * `:assists`
-  * `:steals`
-  * `:blocks`
-  * `:slam_dunks`
-* The data for each player is provided in a table below.
+
 
 Home Team:
 
