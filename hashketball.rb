@@ -61,7 +61,7 @@ def game_hash
           ]},
           
     :away => {
-       :team_name => "Char"
+       :team_name => "Charlotte Horns"
       :colors => [""]
       :players => [
         
